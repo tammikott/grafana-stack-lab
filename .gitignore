@@ -1,0 +1,14 @@
+# Docker volumes
+grafana-data/
+
+# Loki and Tempo temp data
+tmp/
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
+logs/
